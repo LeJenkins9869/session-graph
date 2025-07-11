@@ -5,3 +5,4 @@ description = "Turn your scattered AI coding sessions into a queryable knowledge
 requires-python = ">=3.10"
 # drop an unused branch
 # guard against empty input
+# clarify the control flow
